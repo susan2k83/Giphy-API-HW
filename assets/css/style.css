@@ -1,12 +1,54 @@
+
+.container {
+	background-color: #B0C098;
+	position: center;
+}
 button {
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-bottom: 10px;
+	width: 90px;
+	height: 25px;
+	border-radius: 5px;
+	border-style: outset;
 
-};
+}
+h1 {
+	font-family: 'Chewy', cursive;
+	margin-left: 50px;
+   
+    font-size: 60px;
+}
 
  #add-gif {
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-bottom: 10px;
-};
+}
+
+.gifButtons {
+	margin-top: 10px;
+	margin-left: 50px;
+
+}
+form {
+	margin-bottom: 10px;
+}
+.label-text {
+font-family: 'Luckiest Guy', cursive;	
+}
+.
+#add-gif {
+	width: 90px;
+	height: 25px;
+	border-radius: 5px;
+	border-style: outset;
+
+}
+.gifImages {
+	display: inline-block;
+	margin-left: 50px;
+}
+#gifSearch{
+	margin-left: 50px;
+}
